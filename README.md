@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio
 
-This is my personal portfolio website, showcasing my skills, projects, and experience in web development. Visit the live version here: [Your Portfolio URL](https://your-portfolio-url.com)
+This is my personal portfolio website, showcasing my skills, projects, and experience in web development.
 
 ## 📌 About the Project
 This project is a simple yet effective portfolio built entirely with HTML, CSS, and JavaScript. It provides an interactive experience to explore my work, skills, and contact information.
